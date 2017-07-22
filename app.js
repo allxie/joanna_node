@@ -4,6 +4,7 @@ const app = express();
 //RESEARCH NODEMON to have your server potentially hot-reload
 
 // const objection = require ('objection'); http://vincit.github.io/objection.js/#getting-started
+ // read up on javascript, especially es6. Async/await syntax, arrow functions
 // const Model = objection.Model;
 // const Knex = require('knex');
 
